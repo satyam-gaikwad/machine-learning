@@ -6,7 +6,7 @@ Keeping all .ipynb files of ML programs
 
 List of ML algorithms to cover ASAP
 
-- [ ]    Linear regression
+- [x]    Linear regression
 - [ ]    Logistic regression
 - [ ]    Decision tree
 - [ ]    SVM algorithm
