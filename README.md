@@ -12,7 +12,7 @@ List of ML algorithms to cover ASAP
 - [ ]    SVM algorithm
 - [ ]    Naive Bayes algorithm
 - [ ]    KNN algorithm
-- [ ]    K-means
+- [x]    K-means
 - [ ]    Random forest algorithm
 - [ ]    Dimensionality reduction algorithms
 - [ ]    Gradient boosting algorithm and AdaBoosting algorithm
