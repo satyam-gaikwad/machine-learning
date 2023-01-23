@@ -1,3 +1,8 @@
 Supervised Learning
   ->linear Regression
         ->Using gradient Descent(House pred using GD)
+  ->Logistic Regression
+        ->
+  
+Unsupervised learning
+  ->K-means Clustering
