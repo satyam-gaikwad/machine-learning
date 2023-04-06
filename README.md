@@ -10,10 +10,11 @@ List of ML algorithms to cover ASAP
 - [x]    Logistic regression
 - [x]    Decision tree
 - [ ]    SVM algorithm
+- [ ]    Self-organizing Maps(SOM)
 - [ ]    Naive Bayes algorithm
 - [ ]    KNN algorithm
 - [x]    K-means
-- [ ]    Random forest algorithm
+- [x]    Random forest algorithm
 - [ ]    Dimensionality reduction algorithms
 - [ ]    Gradient boosting algorithm and AdaBoosting algorithm
 
