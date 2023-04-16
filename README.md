@@ -17,4 +17,5 @@ List of ML algorithms to cover ASAP
 - [x]    Random forest algorithm
 - [ ]    Dimensionality reduction algorithms
 - [ ]    Gradient boosting algorithm and AdaBoosting algorithm
+- [x]    Apriori algorithm
 
