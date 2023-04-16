@@ -12,7 +12,7 @@ List of ML algorithms to cover ASAP
 - [x]    SVM algorithm
 - [ ]    Self-organizing Maps(SOM)
 - [ ]    Naive Bayes algorithm
-- [ ]    KNN algorithm
+- [x]    KNN algorithm
 - [x]    K-means
 - [x]    Random forest algorithm
 - [ ]    Dimensionality reduction algorithms
