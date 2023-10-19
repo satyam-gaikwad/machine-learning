@@ -7,13 +7,13 @@ Keeping all .ipynb files of ML programs
 List of ML algorithms to cover ASAP
 
 - [x]    Linear regression
-- [ ]    Logistic regression
-- [ ]    Decision tree
+- [x]    Logistic regression
+- [x]    Decision tree
 - [ ]    SVM algorithm
 - [ ]    Naive Bayes algorithm
-- [ ]    KNN algorithm
-- [ ]    K-means
-- [ ]    Random forest algorithm
+- [x]    KNN algorithm
+- [x]    K-means
+- [x]    Random forest algorithm
 - [ ]    Dimensionality reduction algorithms
 - [ ]    Gradient boosting algorithm and AdaBoosting algorithm
 
